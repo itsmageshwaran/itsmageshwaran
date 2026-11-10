@@ -1,69 +1,180 @@
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=20&pause=1100&color=C59BFF&center=true&vCenter=true&width=850&height=70&lines=Hi!+I'm+itsmageshwaran+%F0%9F%91%8B" width="100%" alt="Animated introduction with four rotating messages" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=28&pause=1100&color=C59BFF&center=true&vCenter=true&width=1000&height=90&lines=Hi!+I'm+Mageshwaran+T+%F0%9F%91%8B;AI+Engineer+%7C+Full+Stack+Developer;Building+Intelligent+Systems+%F0%9F%A4%96" width="100%" alt="Hi! I'm Mageshwaran T" />
 
 <br/>
 
-
 <img src="https://i.pinimg.com/originals/42/b4/22/42b4229a9ec3145edaa895b2415dd720.gif" alt="Banner" width="100%" />
 
-## 📌 About Me
-- 💡 <em>✏️ A sentence about you and what you do.</em>
+<h2 align="center">🚀 AI Developer | Full Stack Engineer | Emerging Tech Enthusiast</h2>
 
+<p align="center">
+  <a href="https://github.com/itsmageshwaran">
+    <img src="https://img.shields.io/badge/GitHub-itsmageshwaran-181717?style=for-the-badge&logo=github" />
+  </a>
+  <a href="https://www.linkedin.com/in/itsmageshwaran">
+    <img src="https://img.shields.io/badge/LinkedIn-Mageshwaran_T-0A66C2?style=for-the-badge&logo=linkedin" />
+  </a>
+</p>
+
+---
+
+## 👨‍💻 About Me
+
+- 🎓 B.Tech CSE — AI & Future Technologies at SRM University AP
+- 📈 CGPA: 9.5
+- 🤖 Passionate about Artificial Intelligence, Generative AI, and AI Agents
+- 💻 Building intelligent and scalable full-stack applications
+- 🛡️ Exploring AI-powered cybersecurity and autonomous systems
+- 🚀 Focused on solving real-world problems through technology
+- 🌱 Constantly learning and experimenting with emerging technologies
+
+---
+
+## 🧠 Featured Projects
+
+### 🛡️ ATLAS
+Adaptive Threat Learning & Autonomous Security
+
+AI-native defensive security platform focused on threat intelligence, behavioral analysis, adaptive response, and autonomous security workflows.
+
+### 🧊 Antarctic AI Navigation
+AI-powered maritime navigation and iceberg collision avoidance system using predictive modeling, iceberg datasets, and route optimization.
+
+🏆 Selected Top 50 in SIH 2026.
+
+### 🎯 ContextMatch
+Hybrid AI recommendation platform combining intelligent retrieval, ranking, and contextual matching.
+
+### ⚙️ OpsPilot
+AI-powered incident correlation and self-healing infrastructure automation platform.
+
+---
 
 ## 📊 GitHub Stats & Trophies
+
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=itsmageshwaran&theme=github-dark&mode=dark" alt="itsmageshwaran's GitHub Stats" width="49%" />
-  <img src="https://streak-stats.demolab.com/?user=itsmageshwaran&theme=nightowl&hide_border=true&cache_seconds=86400" alt="itsmageshwaran's GitHub Streak" width="49%" />
+  <img src="https://www.gitskins.com/api/section/stats?username=itsmageshwaran&theme=github-dark&mode=dark" alt="GitHub Stats" width="49%" />
+  <img src="https://streak-stats.demolab.com/?user=itsmageshwaran&theme=nightowl&hide_border=true&cache_seconds=86400" alt="GitHub Streak" width="49%" />
 </p>
 
 <p align="center">
   <img src="https://www.gitskins.com/api/section/stack?username=itsmageshwaran&theme=github-dark&mode=dark" alt="Top Languages" />
 </p>
+
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/highlights?username=itsmageshwaran&theme=github-dark&mode=dark" alt="Mageshwaran T's GitHub Trophies" />
-</p>
-<p align="center">
-  <img height="280em" src="https://www.gitskins.com/api/section/heatmap?username=itsmageshwaran&theme=github-dark&mode=dark" alt="itsmageshwaran's Activity Graph" />
+  <img src="https://www.gitskins.com/api/section/highlights?username=itsmageshwaran&theme=github-dark&mode=dark" alt="GitHub Trophies" />
 </p>
 
+<p align="center">
+  <img height="280em" src="https://www.gitskins.com/api/section/heatmap?username=itsmageshwaran&theme=github-dark&mode=dark" alt="GitHub Activity Graph" />
+</p>
 
-
+---
 
 ## 🛠️ Languages & Tools
 
-> ## Programming Languages
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="TypeScript" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="Java" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="PHP" width="48" height="48" style="margin: 4px;" /></p>
+### 💻 Programming Languages
 
-> ## Frontend
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="React" width="48" height="48" style="margin: 4px;" /> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="Next.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="HTML5" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="CSS3" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="48" height="48" style="margin: 4px;" /></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" height="48" alt="Python" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="48" height="48" alt="Java" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" />
+</p>
 
-> ## Backend
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="Node.js" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" alt="Express.js" width="48" height="48" style="margin: 4px;" /></p>
+### 🌐 Frontend
 
-> ## Database
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="MySQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" alt="Redis" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="SQLite" width="48" height="48" style="margin: 4px;" /></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" width="48" height="48" alt="React" />
+  <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" width="48" height="48" alt="Next.js" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" width="48" height="48" alt="Tailwind CSS" />
+</p>
 
-> ## DevOps & Cloud
-<p align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="Docker" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-icon.svg" alt="AWS" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="Google Cloud" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="Azure" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="Jenkins" width="48" height="48" style="margin: 4px;" /></p>
+### ⚙️ Backend
 
-> ## Tools
-<p align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="48" height="48" style="margin: 4px;" /> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/webpack/webpack-original.svg" alt="Webpack" width="48" height="48" style="margin: 4px;" /> <img src="https://www.vectorlogo.zone/logos/vitejsdev/vitejsdev-icon.svg" alt="Vite" width="48" height="48" style="margin: 4px;" /></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" width="48" height="48" alt="Node.js" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg" width="48" height="48" alt="Express.js" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" width="48" height="48" alt="FastAPI" />
+</p>
 
+### 🗄️ Database
 
-## 🔗 Connect with Me
-<p align="center"><a href="https://www.linkedin.com/in/your-handle" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:you@example.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original.svg" width="48" height="48" alt="Redis" />
+  <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="48" height="48" alt="SQLite" />
+</p>
+
+### 🤖 AI & Machine Learning
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/tensorflow/tensorflow-original.svg" width="48" height="48" alt="TensorFlow" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="48" height="48" alt="Scikit-learn" />
+</p>
+
+### ☁️ DevOps & Cloud
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" />
+  <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" width="48" height="48" alt="Kubernetes" />
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" width="48" height="48" alt="Google Cloud" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="48" height="48" alt="Git" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="48" height="48" alt="GitHub" />
+</p>
+
+### 🔧 Tools
+
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" width="48" height="48" alt="VS Code" />
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="48" height="48" alt="Postman" />
+  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" width="48" height="48" alt="Figma" />
+</p>
+
+---
+
+## 🎓 Education
+
+**SRM University AP**
+
+B.Tech — Computer Science and Engineering  
+AI & Future Technologies  
+2024 – 2028  
+CGPA: 9.5
+
+---
+
+## 🔗 Connect With Me
+
+<p align="center">
+  <a href="https://github.com/itsmageshwaran">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Github.svg" width="40" height="40" alt="GitHub" />
+  </a>
+  <a href="https://www.linkedin.com/in/itsmageshwaran">
+    <img src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/LinkedIN.svg" width="40" height="40" alt="LinkedIn" />
+  </a>
+</p>
+
+<p align="center">
+  <b>💜 Building the future, one intelligent system at a time.</b>
+</p>
+
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/heatmap?username=itsmageshwaran&theme=github-dark&mode=dark&style=snake" />
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=itsmageshwaran&theme=github-dark&mode=dark&style=snake" />
-  <img alt="github-snake" src="https://www.gitskins.com/api/section/heatmap?username=itsmageshwaran&theme=github-dark&mode=dark&style=snake" />
+  <img alt="GitHub Contribution Snake" src="https://www.gitskins.com/api/section/heatmap?username=itsmageshwaran&theme=github-dark&mode=dark&style=snake" />
 </picture>
 
-
-
-<div align="center">
-  <!---->
-</div>
-
-<p align="center"><sub>Mageshwaran T · <a href="https://www.gitskins.com/readme-generator?template=community-creative-dev-rt3x">creative dev</a> template by <a href="https://www.gitskins.com/creators/himanshu201031">@himanshu201031</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+<p align="center">
+  <sub>✨ Mageshwaran T | AI Developer | Full Stack Engineer ✨</sub>
+</p>
